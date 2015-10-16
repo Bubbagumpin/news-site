@@ -1,0 +1,123 @@
+h1{
+	font-size: 40px;
+	color: black;
+	text-align: center;
+	color: white;
+
+}
+.header{
+	width: 700px ;
+ 	margin-left: auto ;
+ 	margin-right: auto ;
+ 	background-color: #302D2D;
+ 	padding-top: 30px;
+ 	padding-bottom: 30px;
+}
+.nav{
+	margin-top: 20px;
+	text-align: center;
+}
+.adboxtop{
+	background-color: cyan;
+	padding-bottom: 50px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.adbox{
+	background-color: cyan;
+	margin-bottom: 15px;
+	padding-bottom: 30px;
+}
+.ad-wrap{
+	border-bottom: 1px solid grey;
+	margin-bottom: 15px;
+}
+.main-sidebar .kicker{
+	font-weight: bold;
+	text-align: left;
+	margin-bottom: 20px;
+	margin-top: 10px;
+	font-family: 'lato';
+	font-weight: bold;
+	font-size: 13px;
+}
+.center-story .kicker{
+	font-weight: bold;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	text-align: center;
+	font-family: 'lato';
+	font-weight: bold;
+	font-size: 13px;
+}
+.most-viewed-stories .kicker{
+	font-weight: bold;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	text-align: left;
+	font-family: 'lato';
+	font-size: 13px;
+	font-weight: bold;
+}
+.main-sidebar h2{
+	font-weight: bold;
+	font-size: 25px;
+	margin-bottom: 5px;
+	margin-top:5px;
+	font-family: 'Roboto Condensed';
+}
+.main-sidebar .byline{
+	margin-bottom: 10px;
+	margin-top: 10px;
+	color: grey;
+}
+.main-sidebar .summary{
+	margin-bottom: 20px;
+	border-bottom: 1px solid grey;
+	padding-bottom: 15px;
+}
+.center-story .caption{
+	color: grey;
+}
+.center-story h3{
+	text-align: center;
+	font-size: 30px;
+	margin-top: 15px;
+	font-family: 'lora';
+}
+.center-story .byline{
+	text-align: center;	
+	color: grey;
+	margin-top: 15px;
+}
+.center-story .summary{
+	margin-top: 15px;
+	border-bottom: 1px solid grey;
+	padding-bottom: 10px;
+}
+.most-viewed-stories li{
+	margin-bottom: 5px;
+	border-bottom: 1px solid grey;
+	padding-bottom: 8px;
+	list-style: decimal;
+	font-weight: bold;
+	font-family: 'lato';
+	font-size: 14px;
+}
+.refer .kicker{
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+h4{
+	
+}
+.refers .kicker{
+	font-family: 'lato';
+}
+.header h1{
+	font-family: 'Roboto Condensed';
+	font-weight: bold;
+}
+
+
